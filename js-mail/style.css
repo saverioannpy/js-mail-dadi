@@ -1,0 +1,18 @@
+/**** Header ****/ 
+
+body{
+ background-color: #083b4c;
+ /*font-family: 'Bebas Neue', sans-serif;*/
+}
+
+header .container-header{
+    background-color: #90ee90;
+}
+
+main .main-center{
+    background-color: white;
+}
+
+#result-msg{
+    max-width: 400px;
+}
